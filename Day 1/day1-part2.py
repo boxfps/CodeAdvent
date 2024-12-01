@@ -1,3 +1,7 @@
+# Part 2 is similar to part 1, i am using the same two lists. 
+# Although now I need to see how many times a number in the 
+# left column appears in the right column. Then multiply them.
+
 # reference my input file
 input_file = "locations-part1.txt"
 
